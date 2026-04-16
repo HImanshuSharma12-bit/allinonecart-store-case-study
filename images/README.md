@@ -45,16 +45,6 @@ I independently handled the complete development and operations of the store, in
 
 ---
 
-## 📸 Screenshots
-(Add your images inside the `/images` folder)
-
-![Homepage](images/homepage.png.jpg)
-![Product Page](images/product-page.png.jpg)
-![Collection Page](images/collection-page.png.jpg)
-![Mobile View](images/mobile-homepage.png.jpg)
-
----
-
 ## 📚 What I Learned
 Through this project, I gained practical experience in:
 
